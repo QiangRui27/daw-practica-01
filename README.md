@@ -31,3 +31,5 @@ print(f'La temperatura en grados Farenheit es: {farenheit}')
 imagen desde una carpeta
 
 ![alt](/images/emote.png)
+
+[nuevo_documento](practica.md)
