@@ -27,3 +27,7 @@ print(f'La temperatura en grados Farenheit es: {farenheit}')
 [Enlace a la página web del IES Celia Viñas](https://iescelia.org)  
 
 ![](https://iescelia.org/web/wp-content/uploads/2012/05/iescelia_1950.jpg)
+
+imagen desde una carpeta
+
+![alt](/images/emote.png)
